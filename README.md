@@ -3,8 +3,9 @@
 ## Overview
 
 https://github.com/Pawandeep-prog/one-click-dense-pose/blob/main/assets/video.mp4
+https://user-images.githubusercontent.com/1991296/224442907-7693d4be-acaa-4e01-8b4f-add84093ffff.mp4
 
-Video Credit: <a href"https://www.pexels.com/video/hip-hop-dancing-2795746/">cottonbro studio at pexels</a>
+Video Credit: [cottonbro studio at Pexels](https://www.pexels.com/video/hip-hop-dancing-2795746/)
 
 The One-Click Dense Pose project is designed to simplify the process of converting a regular input video into a DensePose-enhanced video with just a single command. DensePose is a method for mapping pixels in images of people to 3D surface coordinates and body part labels. This project streamlines the conversion process, making it accessible with minimal effort.
 
