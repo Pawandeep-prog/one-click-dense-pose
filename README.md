@@ -2,8 +2,7 @@
 
 ## Overview
 
-https://github.com/Pawandeep-prog/one-click-dense-pose/blob/main/assets/video.mp4
-https://user-images.githubusercontent.com/1991296/224442907-7693d4be-acaa-4e01-8b4f-add84093ffff.mp4
+![Input Video](https://github.com/Pawandeep-prog/one-click-dense-pose/blob/main/assets/video.mp4)
 
 Video Credit: [cottonbro studio at Pexels](https://www.pexels.com/video/hip-hop-dancing-2795746/)
 
